@@ -217,7 +217,7 @@ async function provision()
 	// #############################################
 	// #3 Create an droplet with the specified name, region, and image
 	// Comment out when completed. ONLY RUN ONCE!!!!!
-	var name = "mmachav"+os.hostname();
+	var name = "madhu"+os.hostname();
 	var region = "nyc1"; // Fill one in from #1
 	var image = "ubuntu-14-04-x32"; // Fill one in from #2
 	// keyId= 23923810;
